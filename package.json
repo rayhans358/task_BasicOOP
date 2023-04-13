@@ -1,0 +1,27 @@
+{
+  "name": "task_basicoop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhans358/task_BasicOOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhans358/task_BasicOOP/issues"
+  },
+  "homepage": "https://github.com/rayhans358/task_BasicOOP#readme",
+  "description": "",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "gridjs": "^6.0.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
